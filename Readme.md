@@ -108,7 +108,7 @@ The performance kept increasing, but by a small margin. I do not think it's nece
 
 Test Scores:
 
-* Epoch 1: Accuracy: 0.9159647404505387, Precision: 0.915980373907115, Recall: 0.9163266794115629, F1 Macro: 0.9158494095465145, F1 Micro: 0.9159647404505387
+* Accuracy: 0.82174688057041, Precision: 0.8252264610535646, Recall: 0.8259560973518955, F1 Macro: 0.820257587240921, F1 Micro: 0.82174688057041
 
 # Install and Use
 
